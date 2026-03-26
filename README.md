@@ -23,7 +23,7 @@ Feature Engineering: Extracts critical acidity and alcohol metrics for classific
 
 Robust Evaluation: Achieves up to 90% accuracy with optimized SVM hyperplanes.
 
-How It Works
+##How It Works
 
 The system loads wine chemical data from a structured CSV dataset.
 
